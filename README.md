@@ -1,16 +1,14 @@
 # quize_app
 
-A new Flutter project.
 
-## Getting Started
+## because I studied biology as a minor subject, and because the exams in biology consist of multichoise, I made such an app where I could prepare for the exam through a quiz game.
 
-This project is a starting point for a Flutter application.
+### scroll down to see how the app look like (:
 
-A few resources to get you started if this is your first Flutter project:
+![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/3.png)
+
+![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/4.png)
