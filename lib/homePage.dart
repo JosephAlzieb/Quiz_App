@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'game.dart';
+
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -15,7 +17,7 @@ class HomePage extends StatelessWidget {
                 width: double.maxFinite,
                 height: 20.0,
               ),
-              Image.asset('assets/img/Biologie.png'),
+              Image.asset('assets/img/biologie.jpg'),
               SizedBox(
                 width: double.maxFinite,
                 height: 60.0,
@@ -23,7 +25,7 @@ class HomePage extends StatelessWidget {
               FlatButton(
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(20.0)),
-                minWidth: 200.0,
+                minWidth: 100.0,
                 color: Colors.green,
                 onPressed: () {
                   create();
