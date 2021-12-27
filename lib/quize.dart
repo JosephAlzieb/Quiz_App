@@ -21,7 +21,7 @@ class Quize extends StatelessWidget {
             centerTitle: true,
             primary: false,
             title: const Text(
-              "Bio_110_Uebung",
+              "Biologie Uebung",
               style: TextStyle(color: Colors.white),
             ),
             backgroundColor: Colors.green,
