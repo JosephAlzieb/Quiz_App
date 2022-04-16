@@ -5,10 +5,19 @@
 
 ### scroll down to see how the app look like (:
 
-![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/1.png)
+<img src="https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/1.png" width="250" height="500">
 
-![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/2.png)
+___
+___
 
-![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/3.png)
+<img src="https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/2.png" width="250" height="500">
 
-![foxdemo](https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/4.png)
+___
+___
+
+<img src="https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/3.png" width="250" height="500">
+
+___
+___
+
+<img src="https://github.com/JosephAlzieb/quiz_app/blob/master/screenshots/4.png" width="250" height="500">
